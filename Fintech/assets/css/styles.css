@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.imagensConfig {
+    width: 200px;
+    height: 30px;
+    flex-wrap: wrap;
+    align-content: center
+}
+
+.iconesConfig {
+    width: 25px;
+    height: 25px;
+    flex: auto;
+}
+
+.coresNav {
+
+    background-color: #193E44;
+    
+}
+nav a{
+    color: white;
+}
+.intensNav {
+    align-items: center;
+}
+
+.corBarraEx {
+    height: auto;
+    align-items: center;
+    margin: 10px;
+}
+
+
+.corBarra {
+    background-color: rgb(199, 255, 185);
+    color: black;
+    margin: 2px;
+    padding: 2px;
+}
+
+.bordadiv {
+    width: 50% auto;
+    margin: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #305156;
+    border: none;
+}
+
+.bordadiv2 {
+
+    background-color: rgb(255, 102, 0);
+}
+
+.styleBotao {
+    border-radius: 3px;
+    background-color: #122d31;
+    border-color: #122d31;
+    color: rgb(199, 255, 185);
+}
+
+.configBotao {
+    text-align: center;
+}
+
+.configSection{
+    text-align: center;
+}
+
+.styleCard{
+    background-color:  #264146;
+}
+
+.configSection2{
+
+    width: 50% auto;
+    margin: 50px;
+    background-color: #305156;
+}
+.bodyFundo{
+    background-color: #305156;
+    height: 100%;
+    width: 100%;
+}
